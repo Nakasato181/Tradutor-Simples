@@ -1,9 +1,9 @@
-Tradutor Simples - Python
+# Tradutor Simples - Python
 🎉 Bem-vindo ao Tradutor Simples! 🎉
 
 Este é um aplicativo de tradução desenvolvido em Python, que combina a simplicidade e eficiência da biblioteca Tkinter para a interface gráfica com o poder da API do Google Translate para traduzir textos entre vários idiomas. Com um design minimalista e intuitivo, o Tradutor Simples é uma ferramenta prática para quem precisa de traduções rápidas e precisas.
 
-🌟 Funcionalidades
+## 🌟 Funcionalidades
 💬 Entrada de Texto: O usuário pode inserir o texto que deseja traduzir em uma caixa de texto amigável e de fácil uso.
 
 🌍 Selecione os Idiomas: Escolha os idiomas de origem e destino entre várias opções, como:
@@ -28,12 +28,12 @@ Chinês (zh-cn)
 
 🎨 Design Atraente e Intuitivo: Interface clean e moderna, pensada para uma experiência agradável, com botões destacados e fácil navegação.
 
-🚀 Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 Python 3.x - Linguagem de programação principal.
 Tkinter - Biblioteca para criar a interface gráfica simples e funcional.
 googletrans - API do Google Translate que realiza as traduções entre os idiomas.
 
-📦 Como Usar
+## 📦 Como Usar
 Instale o Python 3.x em seu computador.
 Instale as dependências executando o comando:
 
@@ -44,3 +44,8 @@ Execute o script Python:
 python tradutor.py
 
 Digite o texto que deseja traduzir na caixa de entrada, escolha os idiomas de origem e destino, e clique em "Traduzir" para ver o resultado.
+
+_______________________________________
+## **Download**
+Clique [aqui](https://github.com/Nakasato181/Tradutor-Simples/releases/download/v1.0.0/traduto.exe) pra baixa.
+
