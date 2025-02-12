@@ -45,7 +45,7 @@ python tradutor.py
 
 Digite o texto que deseja traduzir na caixa de entrada, escolha os idiomas de origem e destino, e clique em "Traduzir" para ver o resultado.
 
-_______________________________________
+
 ## **Download**
 Clique [aqui](https://github.com/Nakasato181/Tradutor-Simples/releases/download/v1.0.0/traduto.exe) pra baixa.
 
